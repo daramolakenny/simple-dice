@@ -16,6 +16,7 @@
 .box > p{
     margin-bottom: 30px;
     font-size: 2rem;
+    font-family: "Lobster";
     text-shadow: 5px 0 rgb(94, 92, 92);
 }
 
@@ -29,5 +30,12 @@ img{
 h2{
     margin: 30px;
     text-shadow: 5px 0 #232931;
+    font-family: "Lobster";
     font-size: 4rem;
 }
+
+/* .lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} */
