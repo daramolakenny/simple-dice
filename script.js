@@ -17,10 +17,10 @@ const randomImages2 = imageBox[randomSrc2];
 document.getElementById("dice2").setAttribute("src", randomImages2);
 
 if(randomSrc1 > randomSrc2){
-    document.querySelector("h2").innerHTML = "Player 1 Wins!";
+    document.querySelector("h2").innerHTML = "🚩 Player 1 Wins!";
 }
 else if(randomSrc2 > randomSrc1){
-    document.querySelector("h2").innerHTML = "Player 2 Wins!";
+    document.querySelector("h2").innerHTML = "Player 2 Wins! 🚩";
 }
 else{
     document.querySelector("h2").innerHTML = "Draw!";
