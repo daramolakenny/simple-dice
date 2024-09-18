@@ -1,0 +1,30 @@
+.container{
+    width: 65%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(126, 121, 121);
+    color: #f7eded;
+    border-radius: 4px 8px;
+}
+
+.box{
+    display: inline-block;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.box > p{
+    margin-bottom: 30px;
+    font-size: 1.5rem;
+}
+
+img{
+    width: 70px;
+    /* padding: 10px; */
+    /* border: 1px solid black; */
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: 3rem;
+}
