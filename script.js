@@ -42,10 +42,10 @@ else{
 // image2.setAttribute("src", randomImageSource2);
 
 // if(randomNum1 > randomNum2){
-//  document.querySelector("h2").innerHTML = "Player 1 Wins!";
+//  document.querySelector("h2").innerHTML = "🚩 Player 1 Wins!";
 // }
 // else if(randomNum1 > randomNum2){
-//     document.querySelector("h2").innerHTML = "Player 2 Wins!";
+//     document.querySelector("h2").innerHTML = "Player 2 Wins! 🚩";
 // }
 // else{
 //     document.querySelector("h2").innerHTML = "Draw!";
